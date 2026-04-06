@@ -21,13 +21,10 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
 # PROGRAM
 
 ```
-NAME: MANJUSRI KAVYA R
-REGISTER NUMBER: 212224040186
+NAME: SREE GOVIND SA
+REGISTER NUMBER: 212224240159
 ```
 ```
-NAME:PREETHI A K
-REGISTER NUMBER:212223230156
-
 #include <stdio.h>
 #include <string.h>
 
